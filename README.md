@@ -1,2 +1,4 @@
-# NLW#3
-Next Level Week 3, Rocketseat | **HAPPY**
+**NLW 3** 
+
+  <img src="https://github.com/ItamarJoire/nlw3/blob/main/Happy.PNG" align="justify">
+  
