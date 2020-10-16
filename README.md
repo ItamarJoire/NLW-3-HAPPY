@@ -3,10 +3,11 @@
 
 &nbsp;
 
-## Projeto	:computer: 
+## Projeto Next Level Week 3  :computer: 
 <p>Happy é um site que cadastra e localiza orfanatos próximos para que você possa fazer uma visita.</p>
 
-* **Next Level Week 3** foi ministrado pelo instrutor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/?originalSubdomain=br) da [**Rocketseat**](https://rocketseat.com.br)
+ * Foi ministrado pelo instrutor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/?originalSubdomain=br) da [**Rocketseat**](https://rocketseat.com.br)
+
 
 
 &nbsp;
