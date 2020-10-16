@@ -9,7 +9,6 @@
  * Foi ministrado pelo instrutor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/?originalSubdomain=br) da [**Rocketseat**](https://rocketseat.com.br)
 
 
-
 &nbsp;
   
 ## Layout :bookmark:
